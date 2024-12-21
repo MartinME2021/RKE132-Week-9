@@ -1,0 +1,14 @@
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.AssemblyInfoInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.AssemblyInfo.cs
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.csproj.CoreCompileInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\bin\Debug\net6.0\Week9List.exe
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\bin\Debug\net6.0\Week9List.deps.json
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\bin\Debug\net6.0\Week9List.runtimeconfig.json
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\bin\Debug\net6.0\Week9List.dll
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\bin\Debug\net6.0\Week9List.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.dll
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\refint\Week9List.dll
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\Week9List.genruntimeconfig.cache
+C:\Users\Mattias2\Desktop\Marjana\Week9List\Week9List\obj\Debug\net6.0\ref\Week9List.dll
